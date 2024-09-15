@@ -1,6 +1,6 @@
 ## Thanks for coming here
 
-### If you want more customized app, please contact [@s0lb0t](https://t.me/s0lb0t) in Telegram and [.s0lb0t](https://discordapp.com/users/1074553493974691840) in Discord
+### If you want more customized app, please contact [enlomy](https://t.me/enlomy) on Telegram and [enlomy](https://discordapp.com/users/1074553493974691840) on Discord
 <!--
 **s0lb0t/s0lb0t** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
