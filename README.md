@@ -1,5 +1,3 @@
-# 👋 Welcome to visit **enlomy**'s github page
-
 ## 🌟 About "3nlomy"
 
 #### Name: Hugo.
