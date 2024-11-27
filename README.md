@@ -15,13 +15,15 @@
 #### [Pump Fun Trading Tracker](https://github.com/enlomy/pump.fun)
 #### [Multi Dex Volume Booster](https://github.com/enlomy/solana-volume-bot)
 #### [Arbitrage Bot](https://github.com/enlomy/solana-volume-bot)
-#### [Eclipe Token Trading Tracker](https://github.com/enlomy/solana-volume-bot)
-#### [Moonshot Swap](https://github.com/enlomy/solana-volume-bot)
 #### [Raydium Bundler](https://github.com/enlomy/pump.fun)
 #### [Pump Fun Sniper](https://github.com/enlomy/pump.fun)
-#### [Copy Trader](https://github.com/enlomy/pump.fun)
+#### [Pump Fun Comment Bot](https://github.com/enlomy/pump.fun)
 #### [Raydium Volume Booster](https://github.com/enlomy/pump.fun)
 #### [Raydium Sniper](https://github.com/enlomy/pump.fun)
+#### [Wallet Tracking Bot](https://github.com/enlomy/pump.fun)
+#### [Copy Trading Bot](https://github.com/enlomy/pump.fun)
+#### [Eclipe Token Trading Tracker](https://github.com/enlomy/solana-volume-bot)
+#### [Moonshot Swap](https://github.com/enlomy/solana-volume-bot)
 
 ## ⚙️ Past Projects
 
