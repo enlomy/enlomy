@@ -15,7 +15,7 @@
 - Raydium Volume Booster
 - Raydium Sniper
 - Wallet Tracker
-- Eclipe Trading Tracker
+- Eclipse Trading Tracker
 - [Moonshot Swap](https://github.com/enlomy/moonshot-swap)
 <!-- - [Pump Fun Comment Bot](https://github.com/enlomy/)
 - [Raydium Volume Booster](https://github.com/enlomy/)
