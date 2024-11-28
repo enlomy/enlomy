@@ -11,7 +11,7 @@
 - [Copy Trading Bot](https://github.com/enlomy/copy-trading-bot)
 - [Raydium Bundler](https://github.com/enlomy/raydium-bundler)
 - [Pump Fun Sniper](https://github.com/enlomy/pump.fun-sniper)
-- Pump Fun Comment Bot
+- [Pump Fun Comment Bot](https://github.com/enlomy/pump.fun-comment-bot)
 - Raydium Volume Booster
 - Raydium Sniper
 - Wallet Tracker
