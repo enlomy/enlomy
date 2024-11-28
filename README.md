@@ -8,13 +8,13 @@
 - [Pump Fun Trading Tracker](https://github.com/enlomy/pump.fun-trding-history)
 - [Multi Dex Volume Booster](https://github.com/enlomy/multi-dex-volume-booster)
 - [Arbitrage Bot](https://github.com/enlomy/arbitrage)
+- [Copy Trading Bot](https://github.com/enlomy/copy-trading-bot)
 - [Raydium Bundler](https://github.com/enlomy/raydium-bundler)
 - [Pump Fun Sniper](https://github.com/enlomy/pump.fun-sniper)
 - Pump Fun Comment Bot
 - Raydium Volume Booster
 - Raydium Sniper
 - Wallet Tracker
-- Copy Trading Bot
 - Eclipe Trading Tracker
 - [Moonshot Swap](https://github.com/enlomy/moonshot-swap)
 <!-- - [Pump Fun Comment Bot](https://github.com/enlomy/)
