@@ -27,4 +27,3 @@
 ## 📞 Contact Info
 
 ### Telegram: [enlomy](https://t.me/enlomy)
-### Discord: [enlomy](https://discordapp.com/users/1074553493974691840)
