@@ -27,3 +27,7 @@
 ## 📞 Contact Info
 
 ### Telegram: [enlomy](https://t.me/enlomy)
+
+## 🍵 Tip
+
+### If you are intereseted in my projects, please 🔗fork or give me ⭐star
