@@ -1,10 +1,5 @@
-## 🌟 About "3nlomy"
-
-#### Name: Hugo.
-#### Country: France.
-#### Location: 🪙 Crypto Zone 📍.
-#### Hobby: ⚽Football and 🏸Badminton.
-#### Habit: Follow 📈Trending and Learn new 👨‍💻tech
+## 🌟 Thanks for visiting my `Crypto Bot Package`.
+### Here, I’ve showcased some of the most **trending** and **innovative** bots I’ve recently built. Dive in to explore cutting-edge features and solutions in the world of blockchain and crypto trading.
 
 ## 🛠️ Recent Projects
 
