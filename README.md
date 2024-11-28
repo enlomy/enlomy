@@ -15,13 +15,19 @@
 - [Arbitrage Bot](https://github.com/enlomy/arbitrage)
 - [Raydium Bundler](https://github.com/enlomy/raydium-bundler)
 - [Pump Fun Sniper](https://github.com/enlomy/pump.fun-sniper)
-- [Pump Fun Comment Bot](https://github.com/enlomy/pump.fun-comment-bot)
-- [Raydium Volume Booster](https://github.com/enlomy/raydium-volume-booster)
-- [Raydium Sniper](https://github.com/enlomy/raydium-sniper)
-- [Wallet Tracker](https://github.com/enlomy/wallet-tracker)
-- [Copy Trading Bot](https://github.com/enlomy/copy-trading)
-- [Eclipe Trading Tracker](https://github.com/enlomy/eclipse-trading-tracker)
+- Pump Fun Comment Bot
+- Raydium Volume Booster
+- Raydium Sniper
+- Wallet Tracker
+- Copy Trading Bot
+- Eclipe Trading Tracker
 - [Moonshot Swap](https://github.com/enlomy/moonshot-swap)
+<!-- - [Pump Fun Comment Bot](https://github.com/enlomy/)
+- [Raydium Volume Booster](https://github.com/enlomy/)
+- [Raydium Sniper](https://github.com/enlomy/)
+- [Wallet Tracker](https://github.com/enlomy/)
+- [Copy Trading Bot](https://github.com/enlomy/)
+- [Eclipe Trading Tracker](https://github.com/enlomy/) -->
 
 ## 📞 Contact Info
 
