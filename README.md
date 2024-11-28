@@ -5,6 +5,7 @@
 #### Location: 🪙 Crypto Zone 📍.
 #### Hobby: ⚽Football and 🏸Badminton.
 #### Habit: Follow 📈Trending and Learn new 👨‍💻tech
+#### Statue: Open to 🏗️work
 
 ## 🛠️ Recent Projects
 
@@ -15,11 +16,11 @@
 - [Arbitrage Bot](https://github.com/enlomy/arbitrage)
 - [Raydium Bundler](https://github.com/enlomy/raydium-bundler)
 - [Pump Fun Sniper](https://github.com/enlomy/pump.fun-sniper)
-- Pump Fun Comment Bot
+- [Pump Fun Comment Bot](https://github.com/enlomy/pump.fun-comment-bot)
 - Raydium Volume Booster
 - Raydium Sniper
 - Wallet Tracker
-- Copy Trading Bot
+- [Copy Trading Bot](https://github.com/enlomy/copy-trading-bot)
 - Eclipe Trading Tracker
 - [Moonshot Swap](https://github.com/enlomy/moonshot-swap)
 <!-- - [Pump Fun Comment Bot](https://github.com/enlomy/)
